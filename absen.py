@@ -3,7 +3,7 @@ import sqlite3
 import pandas as pd
 from datetime import datetime, timedelta
 import base64
-import calendar
+from streamlit_calendar import calendar
 import os
 import calendar as cal_mod  # Modul calendar Python
 import matplotlib.pyplot as plt
